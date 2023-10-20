@@ -1,5 +1,5 @@
     	    ata-HGST_HUH721010ALE600_2YJ35WRD-part3      ONLINE       0     0     0
-    	    ata-HGST_HUH721010ALE600_7JH02N4C-part3      ONLINE       0     0     0
+    	    ata-HGST_HUH721010ALE600_7JH02N4C-part3      ONLINE       3    10     0
     	    ata-HGST_HUH721010ALE600_JEJYJJHZ-part3      ONLINE       0     0     0
     	    ata-ST10000NM003G-2MU113_ZLW2H8R2-part3      ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA217CP8-part3      ONLINE       0     0     0
