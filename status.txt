@@ -21,7 +21,7 @@
     	    ata-ST10000NM0156-2AA111_ZA29FR6S-part3      ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA29G0Q1-part3      ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA29GBBE-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA29GHK6-part3      ONLINE       0     0     0
+    	    ata-ST10000NM0156-2AA111_ZA29GHK6-part3      ONLINE       1     4     0
     	    ata-ST10000NM0156-2AA111_ZA29H18N-part3      ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA29KNRW-part3      ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA29KRPV-part3      ONLINE       0     0     0
