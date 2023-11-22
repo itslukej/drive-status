@@ -9,7 +9,7 @@ fi
 
 # Check if the file has changes
 if git diff --quiet HEAD -- "$FILE"; then
-    # echo "No changes detected in $FILE."
+    exit 0
 else
     git add "$FILE"
     git commit -m "Updated $FILE"
