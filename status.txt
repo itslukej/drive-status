@@ -1,21 +1,7 @@
     	    ata-HGST_HUH721010ALE600_2YJ35WRD-part3      ONLINE       0     0     0
     	    ata-HGST_HUH721010ALE600_7JH02N4C-part3      ONLINE       0     0     0
-    	    ata-HGST_HUH721010ALE600_JEJYJJHZ-part3      ONLINE       0     0     0
     	    ata-ST10000NM003G-2MU113_ZLW2H8R2-part3      ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA217CP8-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294VYJ-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294VYZ-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294WB3-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294WDX-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294WJR-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294WLD-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294X0Y-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294XJT-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294XL2-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA294XPZ-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA295EVQ-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA295F6S-part3      ONLINE       0     0     0
-    	    ata-ST10000NM0156-2AA111_ZA295FS0-part3      ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA29B3JD-part3      ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA29EHJK-part3  ONLINE       0     0     0
     	    ata-ST10000NM0156-2AA111_ZA29FR6S-part3      ONLINE       0     0     0
@@ -42,4 +28,3 @@
     	    ata-ST10000NM0568-2H5110_ZL00C6LQ-part3      ONLINE       0     0     0
     	    ata-ST10000NM0568-2H5110_ZL00DD1Z-part3      ONLINE       0     0     0
     	    ata-TOSHIBA_MG06ACA10TEY_5930A0LRFWEF-part3  ONLINE       0     0     0
-    	    ata-TOSHIBA_MG06ACA10TEY_X8T0A0D5FWEF-part3  ONLINE       0     0     0
